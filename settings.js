@@ -11,18 +11,18 @@ global.location = "Africa,Nigeria,Delta state" //ur location
 
 //new
 global.botname = '꧁ 𝕺𝖗𝖊𝖐𝖎 𝖒𝖉 ꧂' //ur bot name
-global.ownernumber = '2349153596300' //ur owner number
-global.ownername = '꧁𝕿𝖍𝖚𝖌𝖓𝖎𝖋𝖎𝖈𝖊𝖓𝖙꧂X⌣X 🐥' //ur owner name
-global.websitex = "https://whatsapp.com/channel/0029VaoOiuwDp2QH070eTE01"// DON'T CHANGE 
-global.wagc = "https://whatsapp.com/channel/0029VaoOiuwDp2QH070eTE01"// DON'T CHANGE
+global.ownernumber = '2347049073334' //ur owner number
+global.ownername = 'Bright virgo' //ur owner name
+global.websitex = ""// DON'T CHANGE 
+global.wagc = ""// DON'T CHANGE
 global.themeemoji = '🧸'
 global.wm = "꧁𝕿𝖍𝖚𝖌𝖓𝖎𝖋𝖎𝖈𝖊𝖓𝖙꧂X⌣X 🐥"
 global.botscript = 'https://github.com/DEMONST3R-CODER/OREKI-MD' //script link
 global.packname = "Oreki MD"
 global.author = "꧁𝕿𝖍𝖚𝖌𝖓𝖎𝖋𝖎𝖈𝖊𝖓𝖙꧂X⌣X 🐥"
-global.creator = "2349153596300@s.whatsapp.net"
+global.creator = "2347049073334@s.whatsapp.net"
 global.xprefix = '.'
-global.premium = ["2349153596300"] // Premium User
+global.premium = ["2347049073334"] // Premium User
 global.hituet = 0
 
 //bot set
@@ -30,7 +30,7 @@ global.typereply = 'v3' // reply type 'v1' => 'v3'
 global.autoblocknumber = '' //set autoblock country code
 global.antiforeignnumber = '' //set anti foreign number country code
 global.welcome = false //welcome/left in groups
-global.anticall = false //bot blocks user when called
+global.anticall = true //bot blocks user when called
 global.autoswview = true //auto status/story view
 global.adminevent = false //show promote/demote message
 global.groupevent = false //show update messages in group chat
